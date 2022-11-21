@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-country="FR" tvh-tags="Sports" tvg-logo="https://i.imgur.com/OPau00Q.png" group-title="Sports",BEIN SPORTS 1
+http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/126980
+#EXTINF:-1 tvg-country="WC" tvh-tags="Sports" group-title="Sports",BEIN SPORTS MAX 1
+http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/216934
+#EXTINF:-1 tvg-country="SN" tvh-tags="Information" group-title="Information",RTS 1
+http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/120301
+#EXTINF:-1 tvg-country="SN" tvh-tags="Divertissement" group-title="Divertissement",SEN TV
+http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/120302
+#EXTINF:-1 tvg-country="SN" tvh-tags="Divertissement" group-title="Divertissement",SUNU YEUF
+http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/120303
+#EXTINF:-1 tvg-country="SN" tvh-tags="Information" group-title="Information",TFM
+http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/120307
+#EXTINF:-1 tvg-country="FR" tvh-tags="Documentaire" group-title="Documentaire",NAT GEO WILD
+http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/127060
+#EXTINF:-1 tvg-country="FR" tvh-tags="Divertissement" group-title="Divertissement",NOVELAS TV
+http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/127247
+#EXTINF:-1 tvg-country="FR" tvh-tags="Sports" group-title="Sports",CANAL+ SPORT
+http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/126826
+#EXTINF:-1 tvg-country="FR" tvh-tags="Sports" group-title="Sports",CANAL+ PREMIER LEAGUE
+http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/126828
