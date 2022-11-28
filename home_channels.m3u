@@ -1,39 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-country="FR" tvh-tags="Sports" tvg-logo="https://raw.githubusercontent.com/eliusxpol/setaane/main/img/bein_sports_1.jpeg" group-title="Sports",BEIN SPORTS 1
+#EXTINF:-1 tvg-country="FR" tvh-tags="Sport" tvg-logo="https://raw.githubusercontent.com/eliusxpol/setaane/main/img/bein_sports_1.jpeg" group-title="Sport",BEIN SPORTS 1
 http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/126980
-#EXTINF:-1 tvg-country="WC" tvh-tags="Sports" group-title="Sports",BEIN SPORTS MAX 1
+#EXTINF:-1 tvg-country="WC" tvh-tags="Sport" group-title="Sport",BEIN SPORTS MAX 1
 http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/216934
-#EXTINF:-1 tvg-country="SN" tvh-tags="Information" group-title="Information",RTS 1
+#EXTINF:-1 tvg-country="SN" tvh-tags="Info" group-title="Info",RTS 1
 http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/120301
 #EXTINF:-1 tvg-country="SN" tvh-tags="Divertissement" group-title="Divertissement",SEN TV
 http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/120302
 #EXTINF:-1 tvg-country="SN" tvh-tags="Divertissement" group-title="Divertissement",SUNU YEUF
 http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/120303
-#EXTINF:-1 tvg-country="SN" tvh-tags="Information" group-title="Information",TFM
+#EXTINF:-1 tvg-country="SN" tvh-tags="Divertissement" group-title="Divertissement",TFM
 http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/120307
 #EXTINF:-1 tvg-country="FR" tvh-tags="Documentaire" group-title="Documentaire",NAT GEO WILD
 http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/127060
-#EXTINF:-1 tvg-country="FR" tvh-tags="Divertissement" group-title="Divertissement",NOVELAS TV
+#EXTINF:-1 tvg-country="FR" tvh-tags="Cinéma & Séries" group-title="Cinéma & Séries",NOVELAS TV
 http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/127247
-#EXTINF:-1 tvg-country="FR" tvh-tags="Sports" group-title="Sports",CANAL+ SPORT
+#EXTINF:-1 tvg-country="FR" tvh-tags="Sport" group-title="Sport",CANAL+ SPORT
 http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/126826
-#EXTINF:-1 tvg-country="FR" tvh-tags="Sports" group-title="Sports",CANAL+ PREMIER LEAGUE
+#EXTINF:-1 tvg-country="FR" tvh-tags="Sport" group-title="Sport",CANAL+ PREMIER LEAGUE
 http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/126828
 #EXTINF:-1 tvg-country="FR" tvh-tags="Divertissement" group-title="Divertissement",M6
 http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/127303
 #EXTINF:-1 tvg-country="FR" tvh-tags="Divertissement" group-title="Divertissement",TF1
 http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/127296
-#EXTINF:-1 tvg-country="FR" tvh-tags="Divertissement" group-title="Divertissement",France 2
+#EXTINF:-1 tvg-country="FR" tvh-tags="Divertissement" group-title="Divertissement",FRANCE 2
 http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/127297
-#EXTINF:-1 tvg-country="FR" tvh-tags="Divertissement" group-title="Divertissement",France 3
+#EXTINF:-1 tvg-country="FR" tvh-tags="Divertissement" group-title="Divertissement",FRANCE 3
 http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/127298
-#EXTINF:-1 tvg-country="FR" tvh-tags="Divertissement" group-title="Divertissement",France 4
+#EXTINF:-1 tvg-country="FR" tvh-tags="Divertissement" group-title="Divertissement",FRANCE 4
 http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/127300
-#EXTINF:-1 tvg-country="FR" tvh-tags="Divertissement" group-title="Divertissement",France 5
+#EXTINF:-1 tvg-country="FR" tvh-tags="Divertissement" group-title="Divertissement",FRANCE 5
 http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/127301
-#EXTINF:-1 tvg-country="FR" tvh-tags="Documentaire" group-title="Documentaire",PLANETE+
+#EXTINF:-1 tvg-country="FR" tvh-tags="Découverte" group-title="Découverte",PLANETE+
 http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/127056
-#EXTINF:-1 tvg-country="FR" tvh-tags="Documentaire" group-title="Documentaire",PLANETE+ CRIME
+#EXTINF:-1 tvg-country="FR" tvh-tags="Découverte" group-title="Découverte",PLANETE+ CRIME
 http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/127058
-#EXTINF:-1 tvg-country="FR" tvh-tags="Documentaire" group-title="Documentaire",NAT GEO
+#EXTINF:-1 tvg-country="FR" tvh-tags="Découverte" group-title="Découverte",NAT GEO
 http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/127059
+#EXTINF:-1 tvg-country="FR" tvh-tags="Divertissement" group-title="Divertissement",TFX
+http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/127307
+#EXTINF:-1 tvg-country="FR" tvh-tags="Divertissement" group-title="Divertissement",MTV
+http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/127366
+#EXTINF:-1 tvg-country="FR" tvh-tags="Divertissement" group-title="Divertissement",TMC
+http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/127311
+#EXTINF:-1 tvg-country="FR" tvh-tags="Jeunesse & Education" group-title="Jeunesse & Education",DISNEY CHANNEL
+http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/127122
+#EXTINF:-1 tvg-country="FR" tvh-tags="Jeunesse & Education" group-title="Jeunesse & Education",CARTOON NETWORK
+http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/127134
+#EXTINF:-1 tvg-country="FR" tvh-tags="Info" group-title="Info",FRANCE 24
+http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/126777
+#EXTINF:-1 tvg-country="FR" tvh-tags="Info" group-title="Info",EURONEWS
+http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/126774
+#EXTINF:-1 tvg-country="FR" tvh-tags="Divertissement" group-title="Divertissement",TV5 MONDE
+http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/126776
+#EXTINF:-1 tvg-country="FR" tvh-tags="Divertissement" group-title="Divertissement",13EME RUE
+http://91.208.115.170:25461/22125774322/VXX243HEKJGZRH5/127184
